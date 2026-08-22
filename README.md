@@ -1,4 +1,4 @@
-# Beam Infinity View Distance
+# Far Away Beams (FAB)
 
 ## Setup
 
