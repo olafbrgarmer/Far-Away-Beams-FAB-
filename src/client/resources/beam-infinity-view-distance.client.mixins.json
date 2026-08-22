@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "com.beacon.beam.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"LevelRendererMixin",
+		"ClientBeaconBlockEntityMixin",
+		"ClientBlockEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
